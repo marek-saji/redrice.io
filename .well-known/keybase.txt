@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/saji
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://redrice.io
+  * I am saji (https://keybase.io/saji) on keybase.
+  * I have a public key with fingerprint 66F1 FC7A 91D5 AA8B 64DF  3E41 ED64 F884 B8AA 020B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014f071e1e52fe97bb88762e19360263bea8a87fe6bef3b27a7873762533f343be0a",
+            "fingerprint": "66f1fc7a91d5aa8b64df3e41ed64f884b8aa020b",
+            "host": "keybase.io",
+            "key_id": "ed64f884b8aa020b",
+            "kid": "01014f071e1e52fe97bb88762e19360263bea8a87fe6bef3b27a7873762533f343be0a",
+            "uid": "497d5fb61204568ed32af89787d85d19",
+            "username": "saji"
+        },
+        "service": {
+            "hostname": "redrice.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477574650,
+    "expire_in": 157680000,
+    "prev": "a036dc8f538eccfae0c05619a868b6758948376dd666f51a11648f0665f61bf5",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIcAnicrVJbSFRBGF4vmWuIrQ/d7MWBLpDZmT3nzMxZMCQoWgtqsUgoWuacmdGT
+umc7e9E0K0moSDSih54isRtUajcqglIxorLoJSqCNaWHLMqEIOihmmP21mPzMsz3
+f983/22kMMdXkDVnIrVg9A2YyHo6dCLlqwn8+tEKTIftA6FWUM9nLt7AeCIZrbcZ
+CAEFKlATCoYccj0ouIFNkxCMghwaKlKCSDU5JZRgwZHJhWoGMcUEq5Khq6pQNRlX
+KCgDwo7Vcjfu2rGktEVIQGFhakCmU0pMpDGhcg1yhjRBiGYSSpWgYkphnZPwFDI5
+kyZ4ue1ITD6iM+n9g/+f807N2GkGZrowEQwqmo4IZ2qQCmJIBSM6g4ZHTHA3Rhu5
+ZCfoHhu0lQGJpG2Le031qpiNupy5Ev1TSdx1ko7lNEi8LpmMhzxZcl/c4zVxMzrr
+EDXtGJMNlII0dxO2EwMhKJlW0vYsoYaxjjWkK2WAN8dtl0dtj6FjRBR5vG94WlpS
+RUXMIkJXCbcsQbliKTqCBiVIzgDrxNCIbAFjSA5IhxRCpBGhIKQLBE2hA6+mvTEH
+hHSZJq31arVrYzSZcjloGx7clevLKvDlzcn2FstX4J//d90mz+f7ei8tO/pk7GLv
+x/d5p0pJ+YsP3Q8W/XTWLt0YDoOBukhfT8tOlhlsmkyph2sObdsxPuI705o5ZA5g
+q8s6kl9z/1czqjyrTX7b0nP6+tyhnLKqk/jn4v5j1yLAH8LD29un17VH1sw7e2fk
+ys7Nn5yD/uMVjxs78qbHtjavnwjfrGEYRfzPx1Jfvhft7z13K/3ywur8qqZ3U09y
+71S6324WtU4vX5y9p/Pl+vLSQMfgwgNXhjZs37x7cHR5SShovJ73PDDFCvuKx++t
+8l9+tvJVqtP8nH0sR7mdedg1NVp9Fz76CsKvr3aVlCxd0v/2RvvTFS2bHkeOBIo+
+VmSOdxdXO8PFvwEW6zm6
+=8bZV
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/saji
+
+==================================================================
